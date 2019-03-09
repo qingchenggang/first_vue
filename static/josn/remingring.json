@@ -1,0 +1,26 @@
+{
+  "a": {
+    "title": "批量设置铃声",
+    "cont":[{"id":"0","type":"singyog","img1":"../../static/cardimg/list_icon_birthday.png","title1":"生日提醒","sing":"生日快乐歌"},
+      {"id":"1","type":"singyog","img1":"../../static/cardimg/list_icon_festival.png","title1":"节日","sing":"默认铃声"},
+      {"id":"2","type":"singyog","img1":"../../static/cardimg/list_icon_anniversary.png","title1":"纪念日","sing":"默认铃声"},
+      {"id":"3","type":"singyog","img1":"../../static/cardimg/list_icon_alarm_clock.png","title1":"起床闹钟","sing":"默认铃声"},
+      {"id":"4","type":"singyog","img1":"../../static/cardimg/list_icon_drink.png","title1":"其他","sing":"默认铃声"}
+    ]
+  },
+  "b": {
+    "title": "批量设置提醒时间",
+    "cont":[{"id":"0","type":"times","img1":"../../static/cardimg/list_icon_birthday.png","title1":"生日提醒","sing":"09:00"},
+      {"id":"1","type":"times","img1":"../../static/cardimg/list_icon_festival.png","title1":"节日","sing":"09:00"},
+      {"id":"2","type":"times","img1":"../../static/cardimg/list_icon_anniversary.png","title1":"纪念日","sing":"09:30"}
+     ]
+  },
+  "c": {
+    "title": "批量设置提前提醒时间",
+    "cont":[{"id":"0","type":"timetq","img1":"../../static/cardimg/list_icon_birthday.png","title1":"生日提醒","sing":"16:12"},
+      {"id":"1","type":"timetq","img1":"../../static/cardimg/list_icon_festival.png","title1":"节日","sing":"提前15分钟"},
+      {"id":"2","type":"timetq","img1":"../../static/cardimg/list_icon_anniversary.png","title1":"纪念日","sing":"提前半年"}
+      ]
+  }
+
+}

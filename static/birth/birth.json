@@ -1,0 +1,62 @@
+[
+  {
+    "name": "刘文",
+    "birth": "",
+    "relative": "pengyou"
+  },
+  {
+    "name": "李磊",
+    "birth": "",
+    "relative": "pengyou"
+  },
+  {
+    "name": "杨青",
+    "birth": "",
+    "relative": "pengyou"
+  },
+  {
+    "name": "吴晓辉",
+    "birth": "",
+    "relative": "pengyou"
+  },
+  {
+    "name": "熊宇",
+    "birth": "1999.9.9",
+    "relative": "xiaoxue"
+  },
+  {
+    "name": "黄航",
+    "birth": "1998.8.8",
+    "relative": "daxue"
+  },
+  {
+    "name": "赖伟伦",
+    "birth": "1997.7.7",
+    "relative": "pengyou"
+  },
+  {
+    "name": "波哥",
+    "birth": "1996.6.6",
+    "relative": "pengyou"
+  },
+  {
+    "name": "爸爸",
+    "birth": "1965.5.5",
+    "relative": "qinqi"
+  },
+  {
+    "name": "妈妈",
+    "birth": "1968.3.3",
+    "relative": "qinqi"
+  },
+  {
+    "name": "儿子",
+    "birth": "",
+    "relative": "qinqi"
+  },
+  {
+    "name": "媳妇儿",
+    "birth": "",
+    "relative": "qinqi"
+  }
+]

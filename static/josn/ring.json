@@ -1,0 +1,29 @@
+[
+  {
+    "id":"0","ringname":"默认铃声","stime":"5","src":"../../static/audio/song.mp3","imgsrc":"../../static/cardimg/20170417141222_56189.jpg","palycol":"true"
+  },
+  {
+    "id":"1","ringname":"秋意浓浓","stime":"4","src":"../../static/audio/song.mp3","imgsrc":"../../static/cardimg/jinyu.jpg","palycol":"true"
+  },
+  {
+    "id":"2","ringname":"夏日风光","stime":"3","src":"../../static/audio/song.mp3","imgsrc":"../../static/cardimg/list_icon_gou.png","palycol":"true"
+  },
+  {
+    "id":"3","ringname":"春和大地","stime":"2","src":"../../static/audio/song.mp3","imgsrc":"../../static/cardimg/list_icon_Single.png","palycol":"true"
+  },
+  {
+    "id":"4","ringname":"冬日暖阳","stime":"1","src":"../../static/audio/song.mp3","imgsrc":"../../static/cardimg/list_icon_alarm_clock.png","palycol":"true"
+  },
+  {
+    "id":"5","ringname":"浓情","stime":"1","src":"../../static/audio/song.mp3","imgsrc":"../../static/cardimg/list_icon_festival.png","palycol":"true"
+  },
+  {
+    "id":"6","ringname":"不负深情","stime":"1","src":"../../static/audio/song.mp3","imgsrc":"../../static/cardimg/list_icon_anniversary.png","palycol":"true"
+  },
+  {
+    "id":"7","ringname":"过去过去","stime":"1","src":"../../static/audio/song.mp3","imgsrc":"../../static/cardimg/list_icon_drink.png","palycol":"true"
+  },
+  {
+    "id":"8","ringname":"从未停留","stime":"1","src":"../../static/audio/song.mp3","imgsrc":"../../static/cardimg/list_icon_cycle.png","palycol":"true"
+  }
+]
